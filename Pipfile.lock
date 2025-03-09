@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7ef0a78484204420af395ad1f05968f8018e6f38b8535ac69c282b760e22cf5b"
+            "sha256": "489babffcb75f69f3d3fe560c6e9d32a23ba3382d4524d9ab4c9a44d2e4daa60"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -236,6 +236,18 @@
             "markers": "python_version >= '3.8'",
             "version": "==4.56.0"
         },
+        "freetype-py": {
+            "hashes": [
+                "sha256:36fc383262d11bc7b2cd5add84e3c3bf6b6f8778ba2554a09147b33d980dd55d",
+                "sha256:45c90ebc2a6d31613183da904b003f408dbf64251e45dcca5da036d774e8a0fb",
+                "sha256:75f4178c602a9830fd458c45ebb1953ddcba70bdae428f0cd355936ffb20ddcb",
+                "sha256:ba563cde965baac3813f070fa870a18c77832d8daab631ae25251eeffd449787",
+                "sha256:ca7c4c9706c614b3b3233b6f49bfa2d527fb3c4b9528f11cc6b1dd06f9e68bf4",
+                "sha256:d9145d4502be26b757c2e3209bc705c957885787edf6ce28661a7d559ffc466f",
+                "sha256:e353f28adbeb4da2b9c285792a5e01c9013cc4f7181c02145d0eb22412b04dba"
+            ],
+            "version": "==2.1.0"
+        },
         "jax": {
             "hashes": [
                 "sha256:2aef7d1912df329470c47ce8f2e6521c105e84aa620311494048c391235087c6",
@@ -455,6 +467,12 @@
             "markers": "python_version >= '3.9'",
             "version": "==0.5.1"
         },
+        "modbus-tk": {
+            "hashes": [
+                "sha256:893514bbd8c92118d20a19979e0239e7cb2a63f8f1795a0271e57def09d11770"
+            ],
+            "version": "==1.1.2"
+        },
         "numpy": {
             "hashes": [
                 "sha256:0391ea3622f5c51a2e29708877d56e3d276827ac5447d7f45e9bc4ade8923c52",
@@ -636,6 +654,14 @@
             "markers": "python_version >= '3.9'",
             "version": "==11.1.0"
         },
+        "pinpong": {
+            "hashes": [
+                "sha256:82e10da4f3bb797cd25ee7d8831d3023a72f65c7fb3f2ea150962f0cc4c0131e"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.5'",
+            "version": "==0.6.1"
+        },
         "protobuf": {
             "hashes": [
                 "sha256:03038ac1cfbc41aa21f6afcbcd357281d7521b4157926f30ebecc8d4ea59dcb7",
@@ -679,6 +705,13 @@
             ],
             "markers": "python_version >= '3.9'",
             "version": "==3.2.1"
+        },
+        "pyserial": {
+            "hashes": [
+                "sha256:3c77e014170dfffbd816e6ffc205e9842efb10be9f58ec16d3e8675b4925cddb",
+                "sha256:c4451db6ba391ca6ca299fb3ec7bae67a5c55dde170964c7a14ceefec02f2cf0"
+            ],
+            "version": "==3.5"
         },
         "python-dateutil": {
             "hashes": [
